@@ -1,0 +1,1 @@
+if you just want book level metadata put it in here.  there is no page level metadata for gunda gunde manuscripts.

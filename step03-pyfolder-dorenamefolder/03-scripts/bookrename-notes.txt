@@ -1,0 +1,26 @@
+
+book folder needs sequential numbering like 01, 02, 03....
+book level metadata should be MODS.xml or DC.XML etc
+
+rename all pages in folder to all OBJ, all matching XML will be MODS or DC whatever the appropriate DSID is
+
+
+mybook/
+		01/
+			OBJ.tif
+			MODS.xml
+
+		02/
+			OBJ.tif
+			MODS.xml
+
+		03/
+			OBJ.tif
+			MODS.xml
+
+		MODS.xml
+
+namechanger: * to OBJ.tif
+don’t use automator, needs fixing.  use name changer
+
+keep a copy of these un renamed books for later.  
