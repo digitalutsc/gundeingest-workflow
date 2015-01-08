@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Filekseyos
+f. 1r: Filəksəyos; (ፈልክስዮስ);</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Unknown monk of the Gunda Gunde Monastery;</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>manuscript;</genre>
+      <subject>
+         <topic>Evagrius, Ponticus, 345?-399; Fathers of the church, Syriac.; Monasteries, monasticism and religious orders - Egypt;</topic>
+      </subject>
+      <subject>
+         <temporal>18th Century
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>f. 3ra-148va,16: Filəksəyos;  (ፈልክስዮስ); 
+(title in the text: f. 3ra,8-11: History of the Fathers, Egyptian Monks, Holy Philoxenus the Syrian, bishop of Mabbog; f. 149ra-159ra,8: An excerpt from The Eight Evil Thoughts by Evagrius
+2
+(Wägris) of Pontus;</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>Unknown
+2006-11-06</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>159 + 1 (I); (European foliation);
+16-19; difficult to count because the spine is covered with a leather cover;
+2
+Two wooden boards, each (and the spine) covered up to the middle with a leather cover;
+Codex, 19 x 16.5 x 7 cm;
+Vellum
+4.43 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-115</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>ooGG_115.tif</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+Witakowski, Witold, ‘Filekseyus, the Ethiopic version of the Syriac Dadisho Qatraya’s Commentary on the Paradise of the Fathers’, [in:] Wälättä Yohanna: Ethiopian Studies in Honour of Joanna Mantel-Niecko on the Occasion of the 50th Year of Her Work at the Institute of Oriental Studies, Warsaw University, edited by Witold Witakowski and Laura Lykowska, Warsaw: Elipsa, 2006, (= Rocznik Orientalistyczny, 59:1 (2006)), pp. 281-296;</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Miracles of Mary
+Short title (f. 1r): ተአምረ፡ ማርዖም፡ - Täʾammərä Maryam</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Arkä Iyyäsus</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>illuminated manuscript;</genre>
+      <subject>
+         <topic>Mary, Sacred Virgin; Miracles;</topic>
+      </subject>
+      <subject>
+         <temporal>18th Century; 19th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>1. f. 4r-80r: Miracles of Mary (the canonical collection);
+2. f. 80v-82r: Miracles of Jesus (Täʾammərä Iyyäsus), 21 (Olive branch planted by Zacchaeus); 
+3. f. 83r-97r: Praise of Mary (Wəddase Maryam), starting from Monday (not Sunday); 
+98r: A short account of Mary’s dormition; 
+98v-103r: a piece of religious poetry (mälkəʾ) of Jesus; Two non-canonical Miracles of Mary:
+1. (f. 104r-108va1) Lament of the Apostles after Mary’s death; Jews attack them;
+2. (f. 108va2-110v) Tofonyas the Jew, having prayed to Mary and got his cut hand restored;</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>unknown
+2006-01-11</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>113 (European pagination, the last 3 fols, empty, numbered I-III);
+16
+2
+Two wooden covers, covered with relatively well preserved leather envelop on each of them, decorated with a cross;
+Codex, 31 x 26,8 x 8 cm;
+Vellum
+2.65 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-043</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_043 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

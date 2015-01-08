@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>The Rite of the Passion Week;
+
+On the front cover . ግብረ ህማማት [Gəbrä Həmamat];
+f. 4va,3-2fb: መድሕፈ፡ ሕማማት፡ [Mäṣḥafä ḤƏmamat];
+f. 4vb,5-6,: መድሕፈ፡ ግብረ፡ emmt፡ [Mäṣḥafä GƏbrä ḤƏmamat];</title>
+      </titleInfo>
+      <name>
+         <namePart>
+unknown</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>codex; illuminated manuscript;</genre>
+      <subject>
+         <topic>Passion narratives (Gospels); Catholic Church Liturgy;</topic>
+      </subject>
+      <subject>
+         <temporal>15th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>f. 3ra-5rb,end (?: f. 4v-5r: not filmed): [Introduction 1]; f. 5va-b: [Introduction 2 (about the compiler (?? or the one who found Gebrä Hemamat): Peter bishop of BƏhnas, f,5vb)];
+1. f. 6ra-17rb,10(end): Readings for the Palm Sunday; (f. 6ra,4-5);
+2. f. 19ra,1-44rb,5: Readings for Monday; (f. 19ra,1);
+3. f. 44rb,6-66va,11: Readings for Tuesday;
+4. f. 66va,12-85vb,15: Readings for Wednesday;
+5. f. 85vb,16-113ra,10: Readings for Thursday;
+6. 113ra,11-217r12: Readings for Good Friday;
+2
+7. 217r13-229ra,12fb: Readings for Holy Saturday;
+8. 229ra,12fb-231v: Readings for Easter;                                                                                                                                                                                                                                                       f. 233r-234r: a prayer for benediction</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>unknown
+2006-01-11</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <note>3 (I-III), 234, 2 (IV-V), European foliation;
+26
+2 (except f. 232 r, possibly added and /or misplaced);
+Two wooden boards, covered with leather; the front board split, but reconnected;
+37 x 27 x 10,2 cm;
+Vellum
+6.96 GB
+.tif</note>
+      </physicalDescription>
+      <identifier type="local">GG-042</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_042 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

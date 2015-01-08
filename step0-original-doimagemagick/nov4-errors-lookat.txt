@@ -1,0 +1,104 @@
+identify: Cannot read TIFF header. `oGG_108_016v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 12362352. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Cannot read TIFF header. `oGG_108_039v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_108_054r.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 12436424. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+
+
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_110_015r.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 12736180. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_110_031r.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 11894336. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 13709084. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_110_038r.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 12342208. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+
+
+
+oGG_123_vr.tif[120] TIFF 1560x2304 1560x2304+0+0 8-bit sRGB 10.81MB 0.000u 0:00.000
+oGG_123_vv.tif[121] TIFF 1628x2332 1628x2332+0+0 8-bit sRGB 11.41MB 0.000u 0:00.000
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_123_016r.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 10964424. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+/Users/dsuuser/Desktop/kim/gunde/workflow/step0-original-doimagemagick/0-scripts/oGG_124
+oGG_124_001r.tif TIFF 1920x2262 1920x2262+0+0 8-bit sRGB 13.06MB 0.010u 0:00.009
+
+
+
+
+oGG_129_te.tif[262] TIFF 3057x1892 3057x1892+0+0 8-bit sRGB 17.38MB 0.000u 0:00.009
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_129_070v.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 14474396. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+
+
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_160_086V.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 14180376. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+
+
+
+oGG_161_te.tif[406] TIFF 2368x1424 2368x1424+0+0 8-bit sRGB 10.14MB 0.000u 0:00.009
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_161_055v.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 13523104. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+
+
+
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_161_159v.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 14524392. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+
+
+
+
+
+oGG_117_frontpage.tif[276] TIFF 4016x2256 4016x2256+0+0 8-bit sRGB 27.21MB 0.000u 0:00.009
+identify: Failed to allocate memory for to read TIFF directory (0 elements of 12 bytes each). `oGG_117_072r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 12596556. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to allocate memory for to read TIFF directory (0 elements of 12 bytes each). `oGG_117_076r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 12600964. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+
+
+
+oGG_119_te.tif[318] TIFF 3084x2228 3084x2228+0+0 8-bit sRGB 20.64MB 0.000u 0:00.009
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Failed to allocate memory for to read TIFF directory (0 elements of 12 bytes each). `oGG_119_019v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 12869900. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+/Users/dsuuser/Desktop/kim/gunde/workflow/step0-original-doimagemagick/0-scripts/oGG_120
+oGG_120_001r.tif TIFF 3010x2374 3010x2374+0+0 8-bit sRGB 21.46MB 0.000u 0:00.000

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Synaxary
+[Sənkəssar /Mäggabit/]: ስኅክሳር/መጋት</title>
+      </titleInfo>
+      <name>
+         <namePart>
+anonymous monk of the Gundä Gunde Monastery</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>manuscript; codex;</genre>
+      <subject>
+         <topic>Christian Saints, Ethiopia; Christian Martyrs, Ethiopia;</topic>
+      </subject>
+      <subject>
+         <temporal>18th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>1. f. 1ra-33rb; Synaxary for the month of Mäggabit; (March 7-April 5); 
+2. f. 34ra-59rb; Synaxary for the month of Miyazya; (April 6-May 5); 
+3. f. 60ra-91rb; Synaxary for the month of Gǝnbot; (May 6-June 4); 
+4. f. 92ra-123va; Synaxary for the month of Säne; (June 5-July 4); 
+5. f. 124ra-162vc; Synaxary for the month of Ḥamle; (July 5-August 3); 
+6. f. 163ra-190va; Synaxary for the month of Näḥasse; (Aug. 4-Sept. 2); 
+7. f. 190vb-196rb; Synaxary for the month of Pägwǝmen; (Sept. 3-7);</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>1701; 1702
+2006-02-11</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>196; (European pagination);
+21
+3
+Two wooden boards with leather covers;
+35 x 5 x 39 cm
+Vellum
+5.8 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-045</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_045 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

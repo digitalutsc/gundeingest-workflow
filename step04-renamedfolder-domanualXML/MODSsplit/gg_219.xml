@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>The Prayer of Incense
+On front cover: ፀለመተ አ4ኅ [Ṣälotä ʾəṭan]; 
+F. 1ra,3-5: …ደስመተ፡ ዕፕን፡ ዘግብድ፡…; ‘… The Egyptian Prayer of Incense …’;</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Unknown</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>manuscript;</genre>
+      <subject>
+         <topic>Prayers;</topic>
+      </subject>
+      <subject>
+         <temporal>19th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>1ra,1-14rb,7(end): The Prayer of Incense at dawn</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>Unknown
+2006-11-11</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>2 (foreguard: I-II), 14; European foliation;
+2
+2
+Two wooden covers;
+Codex, 18 x 15 x 3 cm;
+Vellum
+0.667 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-219</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_219 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

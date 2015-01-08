@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Psalter
+Short title (on the front cover, written with large letters): ዳዊት</title>
+      </titleInfo>
+      <name>
+         <namePart>
+anonymous (a monk of the Gundä Gunde Monastery);</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>illuminated manuscript;</genre>
+      <subject>
+         <topic>Song Of Solomon; Mary, Sacred Virgin; Prayers;</topic>
+      </subject>
+      <subject>
+         <temporal>17th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>1. f. 3r-169va:
+Psalms: 2. f. 169vb-190rb: Canticles of the Prophets: The Prayer of Moses 1st, 2nd, 3rd, Prayer of Hanna, the mother of Samuel, of Hezekiah,
+2
+king of Judah, of Manasseh “the Prophet”, of Jonah, “the Prophet”, of Daniel “the Prophet”, of the Three Youths (in the oven), of Habbakuk, of Isaiah, of Mary (Magnificat), of Zachariah (Benedictus), of Simeon (Nunc dimittis): 3. f. 190va-199ra: Song of Songs (Mäḫaləyä mäḫaləy zə-wəʾətu zä-Sälomon): f. 213va,9-220vb,7: Praise and thanksgiving (to Mary) = (Wəddase wä-gənay): 
+f. 220vb,7-end: Eulogy for God for giving (the monks) Brother Ewostatewos; 
+f. 221ra,1-226v: A prayer for protection (with names of the letters of the Hebrew alphabet;</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>unknown
+2006-07-11</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <note>II + 226+2(III-IV); Fol. I and I bis (after fol. 2) is a page (half folio) with a text from another manuscript reused for protection of the added initial quire with miniatures; European pagination;
+25
+2, except f. 184r1-186r,7, which are written in one column (part of the Three Youths’ canticle);
+Two wooden covers, the back cover broken but tied with three strings;
+Codex, 29,5 x 24 x 13,5 cm ;
+Vellum
+6.69 GB
+.tif</note>
+      </physicalDescription>
+      <identifier type="local">GG-136</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_136 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

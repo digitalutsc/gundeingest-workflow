@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Life of Abba Garima
+1. Short title (on front cover): ገድስ  አባ ገራማ – Gädlä Abba Gärima; 
+2. Title (f. 2r3-5): ድርሳን፡ ዘይረስ ቅድስ ዮሕንስ፡ አዸስ፡ ቆዸስ፡ በአንተ፡ ዕበዩ፡ ወክብሩ
+Homily that was composed by Yo&amp;annəs, the bishop, about the greatness and glory of holy Yəsḥaq. [a.k.a. Abba Gärima]; 
+1. Short title in kolophon (f. 64v1-2):–ዝንቱ፡ መድሐፍ፡ ስቅድስ፡ መብአ፡ አባ ገራማ  Gädlu lä-qəddus wä-bəsu͑͗ ͗Abba Gärima;</title>
+      </titleInfo>
+      <name>
+         <namePart>Yoḥannəs, the bishop [of Aksum]
+Anonymous monk(s) of the Monastery of Gunda Gunde</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>illuminated manuscript;</genre>
+      <subject>
+         <topic>Fathers of the church, Syriac.;</topic>
+      </subject>
+      <subject>
+         <temporal>18th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>1.  f. 2r-59r: Life of abba Garima: 
+2.  f. 60r-64r8: Sälam for Yəsḥaq (Gärima): 
+3. f. 64r9-64r15: Sälam for Yəsḥaq of Romya (Gärima), unfinished</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>unknown
+2006-30-10</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>64 (European pagination);
+8
+1
+Two wooden covers, the back cover smaller than the dimensons of the folios; no leather envelops;
+Codex, 13,5 x 11,5 x 4,5 cm
+Vellum
+1.56 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-015</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_015 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

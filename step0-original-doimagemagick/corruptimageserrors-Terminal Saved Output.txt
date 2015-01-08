@@ -1,0 +1,36 @@
+Last login: Tue Nov  4 08:34:33 on ttys001
+dhcphoste226:~ dsuuser$ cd /Users/dsuuser/Desktop/kim/gunde/archive 
+dhcphoste226:archive dsuuser$ ls
+041g			extrafolders		imagemagick-scan.sh
+041g.zip		gundepy
+a			gundework
+dhcphoste226:archive dsuuser$ ./imagemagick-scan.sh 
+/Users/dsuuser/Desktop/kim/gunde/archive/a/gundecorruptimags
+o2011002D3-9-10_01_p18.tif TIFF 1584x1613 1584x1613+0+0 8-bit sRGB 9.322MB 0.000u 0:00.009
+o2011002D7-5-56_01_p34.tif[1] TIFF 1098x1754 1098x1754+0+0 8-bit sRGB 11.51MB 0.020u 0:00.009
+o2011002D7-5-56_01_p44.tif[2] TIFF 1082x1754 1082x1754+0+0 8-bit sRGB 11.32MB 0.000u 0:00.009
+oGG_018_003v.tif[3] TIFF 2022x2172 2022x2172+0+0 8-bit sRGB 12.22MB 0.000u 0:00.000
+oGG_018_003v2.tif[4] TIFF 2022x2172 2022x2172+0+0 8-bit sRGB 13.2MB 0.000u 0:00.009
+oGG_041_120r.tif[5] TIFF 1848x2511 1848x2511+0+0 8-bit sRGB 4.19MB 0.000u 0:00.000
+oGG_041_120r2.tif[6] TIFF 1848x2511 1848x2511+0+0 8-bit sRGB 13.94MB 0.000u 0:00.000
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: IO error during reading of "PhotoshopLayerData"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: IO error during reading of "PhotoshopLayerData"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_018_003v.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 13204732. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_041_120r.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 13945980. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+dhcphoste226:archive dsuuser$ 

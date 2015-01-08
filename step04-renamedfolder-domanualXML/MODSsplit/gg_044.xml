@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Miracles of Mary
+Short title (f. Ir): ትአምረ፡ ማርዖም፡ Täʾammərä Maryam;</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Unknown monk of the Gunda Gunde monastery</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>illuminated manuscript;</genre>
+      <subject>
+         <topic>Mary, Sacred Virgin; Miracles;</topic>
+      </subject>
+      <subject>
+         <temporal>17th Century; 18th Century; 19th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>f. 84rb11-86vb: The Covenant of Mercy;</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>unknown
+2006-01-11</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <note>The 1st and 2nd unit: 3+98+1; The 3rd unit: 1+5 (paper)+1 European pagination;
+8
+ff.1-10: 3 cols.; fols. 11r-end: 2 cols;
+Two wooden covers, covered with well preserved leather envelop on each of them and on the spine, decorated, front and back, with crosses;
+Codex, 36,6 x 30,8 x 8,6 cm;
+Vellum; Parchment
+2.68 GB
+.tif</note>
+      </physicalDescription>
+      <identifier type="local">GG-044</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_044 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

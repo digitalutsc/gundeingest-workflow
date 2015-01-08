@@ -1,0 +1,66 @@
+Last login: Tue Nov  4 08:49:57 on ttys000
+dhcphoste226:~ dsuuser$ cd /Users/dsuuser/Desktop/kim/gunde/workflow/step02b-mogrified-dopyfolder 
+dhcphoste226:step02b-mogrified-dopyfolder dsuuser$ cd 02-scripts/
+dhcphoste226:02-scripts dsuuser$ ./pythonbatch.sh 
+NOT FOR INGEST gundepynew/pybatch1/oGG_007/._.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_007/._ogg_007_0045r.TIF
+NOT FOR INGEST gundepynew/pybatch1/oGG_007/._ogg_007_0048v.TIF
+NOT FOR INGEST gundepynew/pybatch1/oGG_007/._ogg_007_0049r.TIF
+NOT FOR INGEST gundepynew/pybatch1/oGG_007/._ogg_007_0056v.TIF
+NOT FOR INGEST gundepynew/pybatch1/oGG_007/ogg_007_039r.TIF
+NOT FOR INGEST gundepynew/pybatch1/oGG_007/ogg_007_041v.TIF
+NOT FOR INGEST gundepynew/pybatch1/oGG_007/ogg_007_043r.TIF
+NOT FOR INGEST gundepynew/pybatch1/oGG_007/ogg_007_050v.TIF
+NOT FOR INGEST gundepynew/pybatch1/oGG_010/._.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_016/._.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_023/.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_026/._GG_026_0006v.TIF
+NOT FOR INGEST gundepynew/pybatch1/oGG_026/.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_026/oGG_026_005v.TIF
+NOT FOR INGEST gundepynew/pybatch1/oGG_028/.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_036/._.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_038/._.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_039/._.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_040/.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_042xml/._.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_054/.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_066/.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_069/.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_073/.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_075/.DS_Store
+NOT FOR INGEST gundepynew/pybatch1/oGG_083/.DS_Store
+dhcphoste226:02-scripts dsuuser$ ./pythonbatch.sh 
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_013/.DS_Store
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_015xml/.DS_Store
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_017xml/.DS_Store
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_027/._.DS_Store
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_033xml/.DS_Store
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_043xml/._GG_043_026-v.TIF
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_043xml/.DS_Store
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_043xml/GG_043_025-v.TIF
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_043xml/GG_043_025v.TIF
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_044xml/.DS_Store
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_060/.DS_Store
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_067/.DS_Store
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_076/.DS_Store
+NOT FOR INGEST gundepynew/pybatch2reallydark/oGG_078/.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_008/._.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_008/.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_009/._.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_018xml/.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_024/.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_025/.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_035xml/._.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_041xml/.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_046/.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_048/.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_062/~ps6C.tmp
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_065/.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_070/._GG_070_007r.TIF
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_070/.DS_Store
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_070/oGG_070_003r.TIF
+NOT FOR INGEST gundepynew/pybatch3somewhatdark/oGG_084/.DS_Store
+dhcphoste226:02-scripts dsuuser$ 
+  [Restored]
+dhcphoste226:02-scripts dsuuser$ 
+

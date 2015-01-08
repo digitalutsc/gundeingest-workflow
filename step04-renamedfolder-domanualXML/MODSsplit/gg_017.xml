@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>The Account of the Death of Estifanos
+On the front parchment cover: Zena motu lä- Ǝsṭifanos; (ዜና ሞቱ ስአስጢሩናስ)</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Unknown monk of the Gunda Gunde Monastery</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>manuscript;</genre>
+      <subject>
+         <topic>Christian Saints; Estifānos, zaGwindāgwindo, Saint;</topic>
+      </subject>
+      <subject>
+         <temporal>18th Century; 19th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>f. 1r-167r: [no title in the text]</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>unknown
+2006-10-31</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <note>[1] (not numbered, serves as a cover) + 1 [I] + 167 + 1 (II); European foliation;
+21
+1
+Back wooden cover, the front wooden cover lost;
+11.5 x 10 x 6 cm;
+Vellum
+2.76 GB
+.tif</note>
+      </physicalDescription>
+      <identifier type="local">GG-017</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_017 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

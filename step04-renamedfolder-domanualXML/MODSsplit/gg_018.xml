@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Life of Father Isaac; Life of Father Iyosab; Life of (Father) Gäbrä Mäsih; Life of Father Samuel;
+F. Ir: [1] Gädlä ʾAbunä Yəshaq; (ገድስ፡ አበኅ፡ ይስሃቅ;)
+[2] Gädlä (ገድስ፡ አየሳብ)
+[3] Gädlä Gä/Mäsih Dagmawi; (ገድስ፡ ገ/መሊህ፡ ዳግማዊ)
+[4] Gädlä ʾAbunä Samuʾel; (ገድስ፡ አበኅ፡ ሳውአል)</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Zä-Maryam; Wäldä Krestos</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>manuscript;</genre>
+      <subject>
+         <topic>Fathers of the church, Syriac.; Priesthood;</topic>
+      </subject>
+      <subject>
+         <temporal>17th Century; 18th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>f. 2v-16v: Life of Abunä Yəshaq; beginning lost; f.17r-f.40va: Life of Abunä Iyosab of Däbrä Garizan; f. 41r-f. 106v: Life of Abunä Gäbrä Mäsiḥ the Second (Abbot of GG); f. 107r - f. 136v: Life of Abunä Samuel (Abbot of GG);</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>Unknown
+2006-10-31</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>3 (I-III) + 136 + 2 (IV-V); European foliation;
+18
+2
+Two wooden covers; rests of the leather cover at the inner side of the front board;
+Codex, 15 x 13.5 x 7 cm;
+Vellum
+3.45 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-018</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_018 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Life of Abuna Ewostatewos, Life of Abuna Yonas;
+On the front cover: ገድስ፡ አበኅ፡ የስጣቲዎስ  ገድስ አበኅ ዮናስ [Gädlä ʾĀbunä Yosṭatiwos Gädlä ʾĀbunä Yonas];
+አበኅ አስጣቲዎስ፡ አበኅ ዮናስ [ʾĀbunä Esṭatiwos Gädlä ʾĀbunä Yonas];   
+
+</title>
+      </titleInfo>
+      <name>
+         <namePart>
+anonymous monk of the Gundä Gunde Monastery</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>codex; manuscript;</genre>
+      <subject>
+         <topic>Priesthood; Fathers of the church, Syriac.;</topic>
+      </subject>
+      <subject>
+         <temporal>18th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>f. 1r-66vb; Life of Abuna E[wo]statewos; f. 67r-92vb; Miracles of Abuna Ewostatewos, (1. 67ra,1; 2. 68rb5; 3. 69ra9; 4. 69va11; 5. 70va9; 6. 72va5; 7. 74rb1; 8. 77va3; 9. 79rb, last; 10. 80ra,12; 11. 80va,2fb; 12. 81rb,1; 13. 83ra,5; 14. 85vb,2fb); f. 95ra-152rb,4fb; Life of Abuna Yonas (of Bur); f. 152rb,3fb-153vb (not complete); Miracles of Abuna Yonas;
+(1. 152rb,3fb; 2. 153va,4 (broken));</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>Unknown
+2006-30-10</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>4 (I-II), 153; (European pagination);
+21
+2
+Two wooden covers; back cover damaged;
+20 x 19 x 7.5 cm;
+Vellum
+3.92 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-012</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_012 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

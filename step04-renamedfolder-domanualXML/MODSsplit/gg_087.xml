@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>The Miracles of Estifanos;
+Täʾammərä ʾƎsṭifanos</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Amdä Maryam (f. 13rb,4-5), a monk of the Gunda Gunde Monastery</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>manuscript;</genre>
+      <subject>
+         <topic>Estifānos, zaGwindāgwindo, Saint;</topic>
+      </subject>
+      <subject>
+         <temporal>17th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>1ra,1-14ra,3: The Miracles of Estifanos;</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>Unknown
+2006-05-11</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>2 (foreguard: 1bis-2bis), 14; European foliation;
+3
+2
+Two leather covers;
+Codex, 16.7 x 12.5 x 1.5 cm;
+Vellum
+0.607 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-087</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_087 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

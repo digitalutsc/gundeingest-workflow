@@ -12,10 +12,16 @@ step0-original-doimagemagick - RUN batch script to scan all .TIFs and identify c
 
 step01-imagemagicked-dorenameorder - THIS REQUIRES MANUAL ATTENTION. rename the appropriate files so that the images will be in the correct sequence for ingest
 
-step02-renameordered-dopyfolder - RUN batch script which will batch run bookbatch.py
+step02a-renamedorder-domogrify - mogrify with imagemagick command line to adjust the brightness/contrast/balance levels of the image for best quality (recommended that you keep the authentic copy)
+
+step02b-mogrified-dopyfolder - RUN batch script which will batch run bookbatch.py
 
 step03-pyfolder-dorenamefolder - For now, you should use a program like namechanger to rename all of the images to OBJ.tif and the folders to a numeric sequence: 01, 02, 03...  
 
 step04-renamedfolder-domanualXML - put the xml as MODS.xml in the book level.  see additional note.
 
 step05-XMLdone-FTPready - ready for ingest.  zip if you plan on using the zip importer.
+
+step06-rest - all done. put in here to vegetate
+
+2015-01-08

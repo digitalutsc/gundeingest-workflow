@@ -1,0 +1,4 @@
+it's a good idea to check again here that:
+
+- the first page is the size you want your entire book view to be
+- the first few pages are in the correct sequence of your book (fc, frontpage, i, ii, iii...)

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>The Faith of the Fathers
+ሃይማናተ አበሙ [Haymanotä abäw]; on fol.Ir ሃይማ[ናተ፡] አበሙ፡ ቅጵsን ሃይማናተ፡ አበሙ፡ መምህፈ፡ ቅድስት፡</title>
+      </titleInfo>
+      <name>
+         <namePart>
+A monk of the Gundä Gunde Monastery</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>illuminated manuscript;</genre>
+      <subject>
+         <topic>Spherical Astronomy; Astronomy, Arab;</topic>
+      </subject>
+      <subject>
+         <temporal>18th Century
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>The Faith of the Fathers; f. 2r-187v; f. 189ra,10-193ra, end: The Faith of Jacob Burde’aya;</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>Unknown
+2006-11-06</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>1+193+2 (European pagination);
+24
+3 (fol. 2r-187v); 2 (fol. 1r and 189r-193v);
+Two wooden covers; both broken but sewn together;
+Codex, 32,7 x 29,4 x 9,4 cm;
+Vellum
+5.48 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-034</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_034 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

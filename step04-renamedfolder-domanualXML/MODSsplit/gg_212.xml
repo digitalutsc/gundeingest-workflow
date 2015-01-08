@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>The Miracles of Estifanos;
+On front cover: ተአምረ አስጢፉ{ናስ}[Täʾammərä ʾƎsṭifanos,]; 
+</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Wäldä Maryam</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>manuscript;</genre>
+      <subject>
+         <topic>Estifānos, zaGwindāgwindo, Saint;</topic>
+      </subject>
+      <subject>
+         <temporal>17th Century; 18th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>1ra,1-15vb,end: The Miracles of Estifanos; 15ra,1-29v,end: A Miracle of Jesus (not belonging to the Miracles of Jesus collection);</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>unknown
+2006-11-11</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>2 (foreguard: I-II), 29, 2 (III-IV); European foliation;
+7
+2
+Two wooden covers; back board broken, but repaired;
+Codex, 20 x 13.5 x 3.7 cm;
+Vellum
+0.957 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-212</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_212 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

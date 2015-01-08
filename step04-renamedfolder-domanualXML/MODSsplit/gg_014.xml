@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Life of our Father Gabra Masih
+ገድስ አበን ገብረ መስህ [Gädlä Abuna Gäbrä Mäsih];</title>
+      </titleInfo>
+      <name>
+         <namePart>
+anonymous  monk of the Gundä Gunde Monastery</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>manuscript;</genre>
+      <subject>
+         <topic>Fathers of the church, Syriac.;</topic>
+      </subject>
+      <subject>
+         <temporal>16th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>Life of our Father Gabra Masih; [f. 1ra-68vb]:</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>unknown
+2006-31-10</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <note>2 (I-II)+68+3 (III-V); (European pagination);
+11
+2
+Two wooden covers both broken, front cover: ca 2/3 lost, back cover: ½ lost;
+Codex, 13,5 x 13,5 x 4,5 cm;
+Vellum
+1.75 GB
+.tif</note>
+      </physicalDescription>
+      <identifier type="local">GG-014</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_014 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

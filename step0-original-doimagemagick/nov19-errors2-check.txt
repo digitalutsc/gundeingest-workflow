@@ -1,0 +1,184 @@
+all had identify: Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag' @ warning/tiff.c/TIFFWarnings/857.
+
+217 - not yet look
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_217_007r.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 14735188. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_217_083r.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 11753856. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 12783092. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_217_118v.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 13036340. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: oGG_217_120r.tif: Can not read TIFF directory count. `TIFFFetchDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Failed to read custom directory at offset 13133140. `TIFFReadCustomDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Bogus "StripByteCounts" field, ignoring and calculating from imagelength. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+
+
+
+
+209 maybe - IT'S OK
+
+
+
+
+
+198 - not yet look
+oGG_198_072r.tif[99] TIFF 1759x2013 1759x2013+0+0 8-bit sRGB 10.65MB 0.000u 0:00.000
+identify: Cannot read TIFF header. `oGG_198_050r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_050v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_051r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_051v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_052v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_053r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_054r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_054v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_055r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_055v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_056r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_056v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_057r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_057v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_058r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_058v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_059r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_059v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_060r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_060v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_061r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_061v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_062r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_062v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_063r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_063v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_064r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_064v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_065r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_065v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_066r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_066v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_067r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_067v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_068r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_068v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_069r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_069v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_070r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_070v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_071r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_071v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_072v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_073r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_073v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_074r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_074v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_075r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_075v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_076r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_076v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_077r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_077v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_078r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_078v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_079r.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_079v.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_080.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_MDC_07.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_be_083.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_fe_082.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_sp_081.tif' @ error/tiff.c/TIFFErrors/561.
+identify: Cannot read TIFF header. `oGG_198_te_083.tif' @ error/tiff.c/TIFFErrors/561.
+/Users/dsuuser/Desktop/kim/gunde/workflow/step0-original-doimagemagick/identify/oGG_199
+
+
+
+
+
+
+179 - identified broken
+identify: Cannot read TIFF header. `oGG_179_31v.tif' @ error/tiff.c/TIFFErrors/561.
+
+
+
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+
+
+
+
+maybe 182 - not yet look
+
+
+173 - used original not renamed.  it's ok
+oGG_173_te.tif[176] TIFF 3730x1387 3730x1387+0+0 8-bit sRGB 15.54MB 0.000u 0:00.000
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+
+
+169 - not yet look
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+
+
+163 - identified broken
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+
+
+
+160 - identified broken
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Unknown field with tag 59932 (0xea1c) encountered. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+
+
+
+
+
+63 - ok it seems
+
+159 - ALL BAD
+
+
+/Users/dsuuser/Desktop/kim/gunde/workflow/step0-original-doimagemagick/identify/oGG_159_Raquel_Correct_Re-uploaded
+oGG_159_frontpage.tif TIFF 4288x2848 4288x2848+0+0 8-bit sRGB 36.64MB 0.000u 0:00.009
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Unknown field with tag 59932 (0xea1c) encountered. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/857.
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+/Users/dsuuser/Desktop/kim/gunde/workflow/step0-original-doimagemagick/identify/oGG_160_Raquel_CorrectlyRenamed
+
+
+
+161 - identified broekn
+
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+
+sorted by size, identified broken:
+159v
+055v
+
+
+
+
+176 - identified broken
+
+oGG_176_te.tif[428] TIFF 3095x1859 3095x1859+0+0 8-bit sRGB 17.29MB 0.000u 0:00.000
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+identify: Incorrect count for "SampleFormat". `TIFFReadDirectory' @ error/tiff.c/TIFFErrors/561.
+
+PROBLEM:
+oGG_176_179v
+oGG_176_178v
+
+

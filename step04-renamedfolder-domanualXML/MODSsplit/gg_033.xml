@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Abushakir; Computational treatise “Sea of computation”;
+On the front cover: አቡ:አቡቫክር ባህረ-ሃሳብ [ʾAbuśakär (for ʾAbuśakər) Bahrä hasab];</title>
+      </titleInfo>
+      <name>
+         <namePart>Abū Šakir b. Abī l-Karem Buṭrus b. al Muhaddib Ibn ar-Rāhib (c. 1200-95, Egypt);
+anonymous (a monk of the Gundä Gunde Monastery);</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>manuscript;</genre>
+      <subject>
+         <topic>Spherical Astronomy; Astronomy, Arab;</topic>
+      </subject>
+      <subject>
+         <temporal>17th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>Treatise of calendrical computations (in three parts?) : 
+f. 1ra-20r: Abushakir; (part ?); 
+f. 21ra-30ra: Book of the right computation (መድሐፈ፡ ሐሳብ፡ ርቲዕ, );</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>unknown
+2006-01-11</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>35; (European pagination);
+8
+1-2
+Two leather (?) covers;
+Codex, 25,6 x 22,6 x 2,7 cm;
+Vellum
+1.08 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-033</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>oGG-033</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

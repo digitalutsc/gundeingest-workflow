@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Homily on Her Mother; Story of Mary
+ድርባነ፡ አማ፡ / ነገራ ማርዖም [Dərsanä ʾəmma; Nägärä Maryam]</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Unknown monk of the Gunda Gunde Monastery</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>manuscript;</genre>
+      <subject>
+         <topic>Mary, Sacred Virgin;</topic>
+      </subject>
+      <subject>
+         <temporal>17th Century; 18th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>f. 1ra-10va3: Homily on our Lady Mary, the birth of the holy virgin Mary, how she entered the Temple and how she was committed to Jospeh’s care; f. 10va,4-30ra: Homily on our Lady Mary by Abba Yohannes bishop of Ethiopia; f. 30rb,1-64r (but fol. 63v-64r not filmed): The Book of Mary’s Birth (=
+Protevangelium of James)፤ f. 64va,1– 68vb: A story on constructing churches devoted to Mary (f. 64a, upper margin: ዘሐንይተ፡ ቢታ፡)  (= extract from the Synaxary, on the 21 of Sane); f. 83ra,9-103v (unfinished): Homily of Minas bishop of Aksum on Mary;
+f. 83ra, on the upper margin: Kidanä Mehrät</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>Unknown
+2006-31-10</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>103, 2 (I-II); f. 63v-64r not filmed; European pagination;
+c. 16-18;
+2
+Two leather covers;
+Codex, 25 x 21,5 x 5,3 cm;
+Vellum
+2.32 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-029</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_029 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

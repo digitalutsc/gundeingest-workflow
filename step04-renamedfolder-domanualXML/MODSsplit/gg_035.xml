@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Order of the Church
+ስርአተ ቤተክርስተዖን [Sərʾatä  Betäkrəstiyan];</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Unknown monk of the Gunda Gunde Monastery</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>manuscript;</genre>
+      <subject>
+         <topic>Monasticism and Religious Life;</topic>
+      </subject>
+      <subject>
+         <temporal>18th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>
+ f. 1ra,1 - 29ra4&amp;rb6: Let us write (?) what is suitable /necessary from the service of sacerdotal ministry in these prayers and sanctifications …; 
+Chapters /parts: 2. f. 20ra,1; 3. f. 47vb,9fb; 4. f. 54ra,4; 5. f. 61rb,9; 
+
+ f. 73ra,1(?)-113ra,4: Treatise on monastic dicscipline, spiritual combat, and virtues, entitled: On the order of the combat of the monks and its parts on the way that are suitable…; 
+
+ f. 113ra,5-115ra,1: Homily by holy Mari Isaac (of Niniweh ?) On the conduct of silence (=hesychia) and the love of silence. 
+f. 115ra,2-116va,end: further texts concerning monastic discipline and life; prayers; rules, etc.; 
+ F117ra, 1 - 172rb, 5: Filkəsyos (a monastic treatise); 
+f.172rb,6-11: a note telling that Filkəsyos was translated into Ge’ez by Abba Sälama;  
+f. 173ra,1-177ra,3fb: The Monastic Rule of Pachomius;
+Excerpts of monastic literature (apothegmata?): 
+f. 177ra,2fb-180ra,9fb: Abba Pemen; 
+f. 180ra,8fb-181rb,2: Abba Basilios; 
+f. 181rb,3-181vb,14: Basil on 116 God’s Wise men; 
+f. 181vb,15-184vb,14: Homily of Mar Isaac on the search of God and on removal from the world; 
+f. 184vb,15-185vb,3fb: The Elder (or Saba (?)) and other discussants; 
+f. 185vb,2fb-186va,9: About Nathaniel; 
+f. 186va,8-187va,8: Said one monk…; 
+f. 187va,8-189ra,9fb: One monk was unable…;     
+
+f. 189ra,8fb-200ra,end: Excerpts of monastic literature: Questions and answers, apophthegmata: 
+f. 200rb,1-203ra,2: Evagrius, On the Eight (Evil) Thoughts; 
+f. 203ra,3-206ra,4: The Vision of Abba Barok (Baruch); (with many corrections); 
+f. 206ra,5-211va,3fb: The Speech of Abba Sinoda; 
+f. 211va,2fb-vb,end: unidentified text (addition to the Speech of Abba Sinoda ?) 
+
+
+
+
+
+ 
+
+</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>unknown
+2006-01-11</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>211; European foliation;
+24
+2
+Two wooden covers, both broken but repaired;
+Codex, 24.5 x 23 x 10 cm;
+Vellum
+5.07 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-035</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_035 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

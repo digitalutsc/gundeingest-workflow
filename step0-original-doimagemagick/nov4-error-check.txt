@@ -1,0 +1,39 @@
+optimized images
+
+oGG_108_016v.tif - can't open, bad on FTP too 
+oGG_108_039v.tif - can't open
+oGG_108_054r.tif
+BAD
+
+
+oGG_110_015r.tif - fixed
+oGG_110_031r.tif - broken 
+oGG_110_038r.tif
+BAD
+
+
+oGG_123_vr.tif - ok
+oGG_123_vv.tif - ok
+oGG_123_016r.tif - dealing with
+oGG_124_001r.tif - ok
+
+
+oGG_129_te.tif - ok
+oGG_129_070v.tif - dealing with
+
+oGG_160_086V.tif - dealing with and more
+
+
+oGG_161_te.tif - ok
+oGG_161_055v.tif - dealing with
+oGG_161_159v.tif - dealin gwiht
+
+oGG_117_frontpage.tif - ok
+oGG_117_072r.tif - dealing with
+oGG_117_076r.tif - dealing with
+
+
+oGG_119_te.tif - ok
+oGG_119_019v.tif - dealing with
+
+oGG_120_001r.tif - fine is OK

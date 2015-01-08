@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Life of Takla Haymanot
+On f. Ir: ገድስ አበኅ ሃይማናት [Gädlä ʾĀbunä Tä/Haymanot];</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Barok</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>illuminated manuscript;</genre>
+      <subject>
+         <topic>Fathers of the church, Syriac.; Haymanot, Takla;</topic>
+      </subject>
+      <subject>
+         <temporal>20th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>f. 3ra-106rb: Life of our Father Takla Haymanot;:
+includes also “Book of his Birth”, i.e., his genealogy from Adam; f. 107ra,1-118va: Miracles of our Father Takla Haymanot: 18 episodes; f. 119ra,1-123rb,14: Sälam for Takla Haymanot;</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>1944
+2006-31-10</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <note>1 (I), 124, 1 (II)
+N/A
+2
+Two wooden covers with decorated leather
+29 x 22,5 x 6,5 cm
+Vellum
+3.10 GB
+.tif</note>
+      </physicalDescription>
+      <identifier type="local">GG-021</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_021 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

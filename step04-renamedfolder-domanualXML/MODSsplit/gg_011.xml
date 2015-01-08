@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Life of Mazgaba Sellase
+Short title (f. 1r): ገድስ፡ አበኅ መዝገበ ስላሌ - Gädlä ʾAbunä Mäzgäbä Śəllase</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Anonymous monk(s) of the Monastery of Gunda Gunde</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>illuminated manuscript;</genre>
+      <subject>
+         <topic>Mazgaba Sellase;</topic>
+      </subject>
+      <subject>
+         <temporal>18th Century
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>1. f. 15r-59r: Life of Mazgaba Sellase:
+Inc. f. 15ra1-5: “Reveal to us that we might speak and tell a little out of abundant and excellent beauty of the righteousness, combat, toil and
+2
+virtuous deeds of this our blessed father, good shepherd Mazgaba Sellase who sat on the throne of Father Estifanos…”; 2. f. 60r-72ra: (Another) Life of Mazgaba Sellase:
+Inc. f. 60ra1-5: “Again on that day, glorious father … abuna Mazgaba Sellase the chief of Dabra Kaswa (= GG) … fell asleep.”; 3. f. 72rb1-10: Sälam for Mazgaba Sellase:
+Inc. f. 72rb1-5; 4. f. 77ra-81rb7: Sälam /Mälke for Mazgaba Sellase; f. 81rb8-81vb: Sälam for Mazgaba Sellase:
+Inc. f. 81ra8-11; f. 82ra-81vb: Mälke for Estiphanos; 
+Inc. f. 77ra1-5:</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>1720-32
+2006-30-10</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>89 + 1
+13
+2
+Two wooden covers, covered with relatively well preserved leather envelop on each of them;
+19,3 x 18 x 6 cm
+Vellum
+1.89 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-011</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_011 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

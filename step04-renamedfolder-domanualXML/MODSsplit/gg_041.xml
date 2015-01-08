@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Gospels
+On the front cover: 4 መንገል [4 Gospels] with European 4 and phonetic complementቱ [-tu] of the numeral አርባዕቱ፡ (ʾarbāʿətu – ‘four’);</title>
+      </titleInfo>
+      <name>
+         <namePart>
+anonymous  monk of the Gundä Gunde Monastery</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>illuminated manuscript;</genre>
+      <subject>
+         <topic>Bible N.T. John; Bible N.T. Luke; Bible N.T. Mark; Bible N.T. Matthew;</topic>
+      </subject>
+      <subject>
+         <temporal>16th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>Introduction to the Four Gospels [f. 1ra11-12: መቅድመ፡ መንጊላት];
+[Introd. to the Epistle of Eusebius to Carpianos]; 
+[Inc. f. 9rb1-7፡በአንተ፡ ኀብረተ፡ ዎላት፡ ዘአርባዕቱ፡ መንጊላዊዖን];
+f. 10rb-16ra: Epistle of Eusebius to Carpianos; [f. 10rb1-2: ሥርዓተ፡ ዘአውሌብስ፡ ስቀራድዖፍስ፡ 
+]; The Gospels; Matthew 17r-; Mark 79r-; Luke 111r-; John: 165r-209r;</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>unknown
+2006-01-11</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>2+209+4 (European pagination);
+28
+2; (one column: 15r-v, 77r-v, 109r-110r, 164r);
+Two wooden covers;
+Codex, 35 x 25 x 10,5 cm ;
+Vellum
+5.56 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-041</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_041 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+

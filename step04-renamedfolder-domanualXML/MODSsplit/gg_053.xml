@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <titleInfo>
+         <title>Psalter
+ዻዊት – Dawit</title>
+      </titleInfo>
+      <name>
+         <namePart>
+Aläqa Fänta of the Monastery Maḫədara Māryām, f. 175rb;</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart/>
+      </name>
+      <genre>illuminated manuscript;</genre>
+      <subject>
+         <topic>Old Testament; Prayers; Song Of Solomon; Mary, Sacred Virgin;</topic>
+      </subject>
+      <subject>
+         <temporal>18th Century;
+Gunda Gunde, Ethiopia</temporal>
+      </subject>
+      <note>1.  f. 1r-3ra5: a prayer to Jesus and Mary:
+2.  f. 6r-33v, 36r-46r (45r&amp;v: missing/not numbered), 49r-124v: 
+Psalms:
+3.  f. 129r-140v: Canticles of the Prophets: The Prayer of Moses 1st, 2nd, 3rd, Prayer of Hanna, the mother of Samuel, of Hezekiah, king of Judah, of Manasseh, “the Prophet”, of Jonah, “the Prophet”, of Daniel, “the Prophet”, of the Three Youths (in the oven), of Habbakuk, of Isaiah, of Mary (Magnificat), of Zachariah (Benedictus), of Simeon (Nunc dimittis):
+4.  141r-150v: Song of Songs (Mäḫaləyä mäḫaləy);
+5 f. 153r-175r: Various prayers (f, 153va, 6fb: Prayer of the faith), 154rb,9: Trishagion, 154rb.4: the Prayer iof Mary); 155ra13: A Story of Efrem, the Syrian Potter;  f. 155va-168ra: Praise of Mary (Wəddase Maryam); 
+6. f. 168rb-172va: Praise and thanksgiving (to Mary) (Wəddase wä-gənay);</note>
+      <originInfo>
+         <publisher>Monastery of Gunda Gunde, Ethiopia
+University of Toronto Scarborough Library; Hill Museum and Monastic Library, Collegeville, Minnesota</publisher>
+      </originInfo>
+      <originInfo>
+         <dateOther>unknown
+2006-02-11</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <extent>1(I)+177+1(II) (European pagination);
+13
+1 (up to f. 152v), 2 (ff. 153r – 175r);
+Two wooden covers, covered with relatively well preserved leather envelop on each of them;
+Codex, 23 x 18 x 7 cm ;
+Vellum
+4.45 GB
+.tif</extent>
+      </physicalDescription>
+      <identifier type="local">GG-053</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>GG_053 TO BE RENAMED</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>2011-003
+Gunda Gunde Manuscript Collection
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="text">Ge‘ez /Classical Ethiopic;</languageTerm>
+      </language>
+      <accessCondition>Professor Michael Gervers, University of Toronto, Toronto, Ontario, Canada, Ewa Balicka-Witakowska, Uppsala, Sweden,  and Father Columba Stewart, Hill Museum &amp; Manuscript Library, Saint John’s University, Minnesota, U.S.A</accessCondition>
+   </mods>
+
+
